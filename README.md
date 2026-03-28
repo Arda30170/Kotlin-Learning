@@ -1,5 +1,5 @@
 
-# 🚀 Swift Öğrenme Yolculuğum
+# 🚀 Kotlin Öğrenme Yolculuğum
 
 Bu depo (repository), Kotlin programlama dilini öğrenirken geliştirdiğim **kt** projelerini, alıştırmaları ve notlarımı içermektedir. 
 
