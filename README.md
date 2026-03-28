@@ -1,18 +1,18 @@
 
 # 🚀 Swift Öğrenme Yolculuğum
 
-Bu depo (repository), Swift programlama dilini öğrenirken geliştirdiğim **Playground** projelerini, alıştırmaları ve notlarımı içermektedir. 
+Bu depo (repository), Kotlin programlama dilini öğrenirken geliştirdiğim **kt** projelerini, alıştırmaları ve notlarımı içermektedir. 
 
-Özellikle **"Hacking with Swift"** kaynaklarını takip ederek temelden ileri seviyeye doğru ilerliyorum.
+Özellikle **"Atıl Samancıoğlu Btk kursunu"** takip ederek  temelden ileri seviyeye doğru ilerliyorum.
 
 ## 🛠️ Kullandığım Teknolojiler
-* **Dil:** Swift 5+
-* **Araçlar:** Xcode Playground, Simulator
-* **Kaynak:** Hacking with Swift (100 Days of Swift)
+* **Dil:** Kotlin
+* **Araçlar:** Intellij Idea, Android Studio
+* **Kaynak:** Kotlin.dev && BTK Akademi
 
 ## 🎯 Hedeflerim
-- [ ] Swift temellerini eksiksiz tamamlamak.
-- [ ] İlk tam kapsamlı iOS uygulamamı App Store'da yayınlamak.
+- [ ] Kotlin temellerini eksiksiz tamamlamak.
+- [ ] İlk tam kapsamlı Andorid uygulamamı Google Play Store'da yayınlamak.
 
 ---
 *Bu repo sürekli güncellenmektedir.*
